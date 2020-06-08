@@ -1,0 +1,37 @@
+,States/UTs,Number of ICU beds in public sector,Number of ICU beds in private sector,Total number of ICU beds (public + private)
+1,Lakshadweep,15,6,21
+2,Dadra & Nagar Haveli,31,16,47
+3,Daman And Diu,12,51,63
+4,Andaman Nicobar Islands,54,11,65
+5,Manipur,71,18,90
+6,Sikkim,78,20,98
+7,Mizoram,100,25,125
+8,Nagaland,94,34,128
+9,Arunachal Pradesh,120,11,131
+10,Goa,151,79,229
+11,Tripura,221,12,233
+12,Puducherry,178,80,259
+13,Meghalaya,223,39,262
+14,Chandigarh,188,94,282
+15,Jammu And Kashmir,365,35,400
+16,Himachal Pradesh,620,182,802
+17,Chhattisgarh,471,401,871
+19,Assam,857,352,"1,209"
+20,Odisha,926,357,"1,282"
+21,Jharkhand,539,786,"1,325"
+22,Bihar,583,960,"1,543"
+23,Haryana,562,"1,245","1,807"
+24,Delhi,"1,219",754,"1,973"
+25,Punjab,897,"2,153","3,050"
+26,Gujarat,"1,009","2,234","3,243"
+27,Madhya Pradesh,"1,555","1,692","3,247"
+28,Andhra Pradesh,"1,157","3,005","4,162"
+29,Rajasthan,"2,353","2,306","4,659"
+30,Kerala,"1,900","3,061","4,961"
+31,Telangana,"1,049","3,947","4,996"
+32,West Bengal,"3,928","1,748","5,677"
+33,Tamil Nadu,"3,877","3,892","7,769"
+34,Maharashtra,"2,572","9,015","11,587"
+35,Karnataka,"3,486","9,619","13,105"
+36,Uttar Pradesh,"3,813","10,257","14,070"
+37,Ladakh,NA,NA,NA
